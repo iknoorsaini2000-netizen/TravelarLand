@@ -1,0 +1,7 @@
+{
+  "name": "TravelerLand.com",
+  "description": "A high-end travel exploration platform featuring curated country packages, AI-powered destination insights, and immersive imagery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
